@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../DataBase/fifthlab.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../DataBase/fourthlab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../DataBase/lab3.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/../DataBase/secondlab.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../DataBase/testing.sql" dialect="PostgreSQL" />
+    <file url="file://$PROJECT_DIR$/../DataBase/thirdlab.sql" dialect="GenericSQL" />
+    <file url="PROJECT" dialect="PostgreSQL" />
+  </component>
+</project>
